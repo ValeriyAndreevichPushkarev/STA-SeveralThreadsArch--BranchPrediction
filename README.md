@@ -1,4 +1,4 @@
-# STA_BranchPrediction
+# Several Threads Arch - Branch predictions
 
 ## Branching prediction
 
