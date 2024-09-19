@@ -12,4 +12,6 @@ Pluses - 100% hit accuracy. And its very easy in term of logic and consumes noth
 Nowadays all your Heavy computation core can be placed in cache (and you can make your instruction cache down to 256 M) (with all possible branches).
 How to decrease power consumption - increase cache page size. (you spend more power with searching address in tree than to preform arithmetic/logical/flow control operation)
 
+Or simply map regions directly to some Cache with additional instructions.
+
 (TODO: describe branch dest address translation without searching in tree/page list)
